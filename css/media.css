@@ -1,0 +1,231 @@
+@media(max-width:575px) and (min-width:0) 
+{
+    .banner-content h1 {
+        font-size: 30px;
+        color: #fff;
+        margin-bottom: 34px;
+        margin-top: 70px;
+    }
+    .banner-content p {
+        font-size: 17px;
+        margin-bottom: 35px;
+    }
+    .btn-download {
+        width: 28%;
+    }
+    .netflex-contant {
+        width: 104%;
+    }
+    .netflex-contant p {
+        color: #fff;
+        margin-top: 24px;
+        font-size: 11px;
+    }
+    .netflex-contant h6 {
+        font-size: 17px;
+    }
+    .text-center {
+        margin-top: 50px;
+    }
+    .Process h1 {
+        font-size: 25px;
+    }
+    .Process p {
+        font-size: 13px;
+    }
+    .col-6 {
+        flex: 0 0 auto;
+        width: 100%;
+        text-align: center;
+    }
+    .process-img img {
+        width: 60%;
+        margin-bottom: 80px;
+    }
+    .from-part p {
+        text-align: center;
+        margin: 20px 0;
+        margin-bottom: 40px;
+    }
+    form {
+        width: 80%;
+        height: 58%;
+        margin-bottom: -106px;
+    }
+    .footer {
+        color: #fff;
+        border: 1px solid #494f61;
+        margin-top: 100px;
+        text-align: center;
+    }
+    .logo-icon {
+        text-align: center;
+    }
+    .footer-contain-1 p {
+        font-size: 12px;
+        text-align: center;
+        margin: 15px;
+    }
+    .btn-DESIGN {
+        text-align: left;
+        text-align: center;
+        width: 40%;
+        margin-top: 15px;
+    }
+    .colam-1 {
+        /* margin-left: 35px; */
+        width: 45%;
+        margin: auto;
+        text-align: center;
+        line-height: 40px;
+        margin-top: 55px;
+    }
+    .icon-list ul {
+        display: flex;
+        text-align: center;
+        list-style: none;
+        justify-content: center;
+    }
+    .footer-contain h5 {
+        margin: 25px 0;
+    }
+    .footer-contain h5 {
+    margin: 25px 0;
+    }
+    .icon-list ul {
+        text-align: center;
+        justify-content: center;
+    }
+    .icon-list ul {
+        text-align: center;
+        justify-content: center;
+    }
+    .icon-list ul li {
+        margin-left: 30px;
+        font-size: 21px;
+        margin-right: 28px;
+    }
+    .form {
+        width: 80%;
+    }
+    .from-part h5 {
+        text-align: center;
+    }
+}
+@media(max-width:575px) and (min-width:0) {
+    .navbar-nav .nav-item .nav-link {
+        margin-left: 0px;
+        display: inline-block;
+        margin-bottom: 4px;
+    }
+    .nav-item{
+        text-align: center;
+
+    }
+}
+@media(max-width:646px) and (min-width:0) {
+    .navbar-nav .nav-item .nav-link {
+        margin-left: 0px;
+        display: inline-block;
+        margin-bottom: 4px;
+    }
+    .nav-item{
+        text-align: center;
+
+    }
+}
+@media(max-width:575px) and (min-width:0) {
+    .phone-img {
+    display: none;
+    }
+  .banner-content{
+      text-align: center;
+  }
+}
+@media(max-width:354px) and (min-width:0){
+    .btn-download{
+
+margin-bottom: 14px;
+
+}
+    .btn-view {
+        
+padding: 10px 37px;
+        
+margin-left: -10px;
+    }
+}
+
+@media(max-width:646px) and (min-width:0){
+    .testimonials-2 {
+        height: 150px;
+    }
+    .client-details{
+    margin-left: 30px;
+}
+}
+@media(max-width:646px) and (min-width:0){
+    .pricing{
+        
+margin-bottom: 30px;
+    }
+}
+@media(max-width:646px) and (min-width:0){
+    form{
+
+width: 100%;
+
+height: 58%;
+
+margin-bottom: -106px;
+}
+}
+@media(max-width:646px) and (min-width:0){
+    .icon-1{
+
+width: -3px;
+
+display: flex;
+
+justify-content: center;
+
+}
+    .icon-1 i{
+
+    }
+}
+@media(max-width:1150px) and (min-width:898px){
+    .icon-1{
+
+        width: -3px;
+        
+        display: flex;
+        
+        justify-content: center;
+        
+        }
+}
+@media(max-width:646px) and (min-width:0){
+    .icon-a{
+
+width: 50%;
+
+}
+}
+@media(max-width: 646px) and (min-width: 0){
+    .client-details h4{
+    
+margin-top: -23px;
+    
+font-size: 15px;
+    }    
+    .client-details h3 {
+
+font-size: 9px;
+
+}
+    .owl-carousel .owl-item img{
+        
+width: 100%;
+    }
+}
